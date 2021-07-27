@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# This Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+In this project, using the api of the https://www.coiningecko.com/en site, the names of the current crypto currencies, their instant prices and some information are listed, and when random letters are typed into the search field, the coins containing the necessary characters are brought.
+
+![image](https://user-images.githubusercontent.com/45097105/127157882-c46e840d-9ed8-469d-a441-2f35890e2457.png)
+
+![image](https://user-images.githubusercontent.com/45097105/127157953-0ffb8b45-aa8c-4357-a4e3-d829b55363ec.png)
 
 ## Available Scripts
 
